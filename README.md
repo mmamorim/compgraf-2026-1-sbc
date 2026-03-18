@@ -16,3 +16,5 @@
     * [Colorizar](./rasterLab/filtros/colorizar.js)
     * [Monocromático](./rasterLab/filtros/monocromatico.js)
     * [Sépia](./rasterLab/filtros/sepia.js) mais informações sobre [Sépia](./sepia.pdf) 
+* **TECHWEEK** (11/03) 
+* [Aula 04](./Aula04_18MAR/aula4.pdf) (18/03) - Transformações de escala

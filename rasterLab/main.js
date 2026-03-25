@@ -6,6 +6,11 @@ import colorizar from "./filtros/colorizar.js";
 import brilho from "./filtros/brilho.js";
 import monocromatico from "./filtros/monocromatico.js";
 import sepia from "./filtros/sepia.js";
+import flipV from "./filtros/flipV.js";
+import flipH from "./filtros/flipH.js";
+import flipVH from "./filtros/flipVH.js";
+import rotaciona90 from "./filtros/rotaciona90.js";
+import escala from "./filtros/escala.js";
 
 console.log('imageLab', imageLab);
 imageLab.setLoadButtonID('btnLoad')
@@ -16,5 +21,10 @@ createFilters(imageLab, [
     { label: 'COLORIZAR', method: colorizar },
     { label: 'MONOCROMATICO', method: monocromatico },
     { label: 'SEPIA', method: sepia },
+    { label: 'FLIP-V', method: flipV },
+    { label: 'FLIP-H', method: flipH },
+    { label: 'FLIP-VH', method: flipVH },
+    { label: 'ROTACIONA90', method: rotaciona90 },
+    { label: 'ESCALA', method: escala },
 ])
 

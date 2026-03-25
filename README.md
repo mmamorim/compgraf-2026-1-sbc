@@ -18,4 +18,9 @@
     * [Sépia](./rasterLab/filtros/sepia.js) mais informações sobre [Sépia](./sepia.pdf) 
 * **TECHWEEK** (11/03) 
 * [Aula 04](./Aula04_18MAR/aula4.pdf) (18/03) - Transformações de escala
- 
+    * [FlipH](./rasterLab/filtros/flipH.js)
+    * [FlipV](./rasterLab/filtros/flipV.js)
+    * [FlipVH](./rasterLab/filtros/flipVH.js)
+    * [Rotaciona90](./rasterLab/filtros/rotaciona90.js)
+    * [Escala](./rasterLab/filtros/escala.js)
+* **Aula 05** (25/03) - Rotações

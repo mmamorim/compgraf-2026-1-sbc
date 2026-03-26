@@ -11,6 +11,7 @@ import flipH from "./filtros/flipH.js";
 import flipVH from "./filtros/flipVH.js";
 import rotaciona90 from "./filtros/rotaciona90.js";
 import escala from "./filtros/escala.js";
+import rotacionar from "./filtros/rotacionar.js";
 
 console.log('imageLab', imageLab);
 imageLab.setLoadButtonID('btnLoad')
@@ -26,5 +27,6 @@ createFilters(imageLab, [
     { label: 'FLIP-VH', method: flipVH },
     { label: 'ROTACIONA90', method: rotaciona90 },
     { label: 'ESCALA', method: escala },
+    { label: 'ROTAÇÃO', method: rotacionar },
 ])
 

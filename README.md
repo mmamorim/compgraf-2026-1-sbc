@@ -24,3 +24,7 @@
     * [Rotaciona90](./rasterLab/filtros/rotaciona90.js)
     * [Escala](./rasterLab/filtros/escala.js)
 * **Aula 05** (25/03) - Rotações
+    * [Rotacionar](./rasterLab/filtros/rotacionar.js)
+* [Aula 06](./Aula06_01ABR/) (01/04) - Histograma e Afins
+
+

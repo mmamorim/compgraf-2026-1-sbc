@@ -25,6 +25,7 @@
     * [Escala](./rasterLab/filtros/escala.js)
 * **Aula 05** (25/03) - Rotações
     * [Rotacionar](./rasterLab/filtros/rotacionar.js)
-* [Aula 06](./Aula06_01ABR/) (01/04) - Histograma e Afins
+* **Aula 06** (01/04) - DIA DA MENTIRA
+* [Aula 07](./Aula07_08ABR/) (08/04) - Histograma e Afins
 
 

@@ -1,6 +1,6 @@
 <img src="/assets/teste.svg" width="100%">
 
-# Aula 6 - 01/04/2026
+# Aula 7 - 08/04/2026
 
 # Histograma e Afins
 

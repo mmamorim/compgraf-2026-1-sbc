@@ -1,4 +1,4 @@
-let fator = 0.2
+let fator = 4
 
 function brilho(imageLab) {
     let w = imageLab.image1.width

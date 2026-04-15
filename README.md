@@ -27,5 +27,5 @@
     * [Rotacionar](./rasterLab/filtros/rotacionar.js)
 * **Aula 06** (01/04) - DIA DA MENTIRA
 * [Aula 07](./Aula07_08ABR/) (08/04) - Histograma e Afins
-
+* [Aula 08](./Aula08_15ABR/) (15/04) - Detecção de Bordas
 

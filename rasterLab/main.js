@@ -15,6 +15,9 @@ import rotacionar from "./filtros/rotacionar.js";
 import segmentacao from "./filtros/segmentacao.js";
 import histograma from "./filtros/histograma.js";
 import histogramaNorm from "./filtros/histogramaNorm.js";
+import bordaH from "./filtros/bordaH.js";
+import bordaV from "./filtros/bordaV.js";
+import bordaHV from "./filtros/bordaHV.js";
 
 console.log('imageLab', imageLab);
 imageLab.setLoadButtonID('btnLoad')
@@ -34,5 +37,8 @@ createFilters(imageLab, [
     { label: 'SEGMENTACAO', method: segmentacao },
     { label: 'HISTOGRAMA', method: histograma },
     { label: 'HISTOGRAMA NORMALIZADO', method: histogramaNorm },
+    { label: 'BORDA H', method: bordaH },
+    { label: 'BORDA V', method: bordaV },
+    { label: 'BORDA HV', method: bordaHV },
 ])
 

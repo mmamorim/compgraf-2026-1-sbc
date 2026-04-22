@@ -29,5 +29,6 @@
 * [Aula 07](./Aula07_08ABR/) (08/04) - Histograma e Afins
 * [Aula 08](./Aula08_15ABR/) (15/04) - Detecção de Bordas
 * [Aula 09](./Aula09_22ABR/blur.md) (22/04) - Blur
-    [REVISÃO PARA A1](./Aula09_22ABR/)
+    * [Esteganografia em imagens](./Aula09_22ABR/esteg.md)
+    * [REVISÃO PARA A1](./Aula09_22ABR/)
 

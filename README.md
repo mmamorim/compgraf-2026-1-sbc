@@ -28,4 +28,6 @@
 * **Aula 06** (01/04) - DIA DA MENTIRA
 * [Aula 07](./Aula07_08ABR/) (08/04) - Histograma e Afins
 * [Aula 08](./Aula08_15ABR/) (15/04) - Detecção de Bordas
+* [Aula 09](./Aula09_22ABR/) (22/04) - Blur
+    [REVISÃO PARA A1](./Aula09_22ABR/)
 

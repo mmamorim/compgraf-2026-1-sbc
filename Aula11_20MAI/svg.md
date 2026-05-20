@@ -121,8 +121,7 @@ A MDN possui uma excelente documentação sobre SVG:
 
 Ferramentas para testar SVG diretamente no navegador:
 
-- https://codepen.io
-- https://jsfiddle.net
-- https://svg-editor.freesvg.org
+- https://www.svgviewer.dev/
+- https://svgeditoronline.com/
 
 ---

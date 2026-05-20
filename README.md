@@ -34,4 +34,4 @@
 * **AVALIAÇÃO A1** (06/05) - AVALIAÇÃO A1
 * **VISTA DE AVALIAÇÃO A1** (13/05) - VISTA DE AVALIAÇÃO A1
 * [Aula 11](./Aula11_20MAI/) (20/05) - Imagens Vetoriais
-
+    * [Curva Bézier](./Aula11_20MAI/curvas.md)

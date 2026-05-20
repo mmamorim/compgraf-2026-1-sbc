@@ -18,6 +18,10 @@ import histogramaNorm from "./filtros/histogramaNorm.js";
 import bordaH from "./filtros/bordaH.js";
 import bordaV from "./filtros/bordaV.js";
 import bordaHV from "./filtros/bordaHV.js";
+import blur from "./filtros/blur.js"
+import gaussianBlur from "./filtros/blur2.js"
+import estegCrypt from "./filtros/estegCrypt.js"
+import estegDecrypt from "./filtros/estegDecrypt.js"
 
 console.log('imageLab', imageLab);
 imageLab.setLoadButtonID('btnLoad')
@@ -40,5 +44,9 @@ createFilters(imageLab, [
     { label: 'BORDA H', method: bordaH },
     { label: 'BORDA V', method: bordaV },
     { label: 'BORDA HV', method: bordaHV },
+    { label: 'BLUR', method: blur },
+    { label: 'BLUR 2', method: gaussianBlur },
+    { label: 'ESTEG_CRYPT', method: estegCrypt },
+    { label: 'ESTEG_DECRYPT', method: estegDecrypt },
 ])
 

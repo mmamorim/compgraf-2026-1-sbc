@@ -30,5 +30,8 @@
 * [Aula 08](./Aula08_15ABR/) (15/04) - Detecção de Bordas
 * [Aula 09](./Aula09_22ABR/blur.md) (22/04) - Blur
     * [Esteganografia em imagens](./Aula09_22ABR/esteg.md)
-    * [REVISÃO PARA A1](./Aula09_22ABR/)
+* [REVISÃO PARA A1](./Aula09_22ABR/) (29/04)
+* **AVALIAÇÃO A1** (06/05) - AVALIAÇÃO A1
+* **VISTA DE AVALIAÇÃO A1** (13/05) - VISTA DE AVALIAÇÃO A1
+* [Aula 11](./Aula11_20MAI/) (20/05) - Imagens Vetoriais
 

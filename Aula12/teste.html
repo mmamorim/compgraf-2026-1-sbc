@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+
+    <h1>Meu teste SVG</h1>
+
+    <svg width="100px" height="100px" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink">
+
+        <rect id="r1" x="10" y="10" width="500" height="500" fill="blue" />
+        <circle cx="900" cy="100" r="400" fill="red" />
+        <line x1="0" y1="0" x2="1000" y2="1000" stroke="green" stroke-width="50" />
+
+        <text x="50" y="250" font-size="200">
+            Olá SVG
+        </text>
+
+        <path d="M 50 150 Q -200 500, 350 150" stroke="red" stroke-width="40" fill="none" />
+    </svg>
+
+    <script>
+        let elem = document.getElementById("r1")
+        console.log(elem);
+        
+        elem.setAttribute("x","100")
+        elem.setAttribute("y","500")
+    </script>
+
+
+</body>
+
+</html>

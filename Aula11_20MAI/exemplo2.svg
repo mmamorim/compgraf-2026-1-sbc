@@ -5,7 +5,7 @@
    viewBox="0 0 200 200"
    version="1.1"
    id="svg2"
-   sodipodi:docname="exemplo.svg"
+   sodipodi:docname="exemplo2.svg"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,9 +22,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.1115719"
-     inkscape:cx="302.72447"
-     inkscape:cy="616.24446"
+     inkscape:zoom="0.786"
+     inkscape:cx="500.63613"
+     inkscape:cy="500"
      inkscape:window-width="1920"
      inkscape:window-height="988"
      inkscape:window-x="0"
@@ -66,15 +66,21 @@
     Olá SVG
   </text>
   <path
-     d="m 27.329401,156.83716 c -74.045802,38.52418 41.984731,-10.58524 99.999999,0"
-     stroke="#ffff00"
+     d="M 50 150        Q 200 20, 150 150"
+     stroke="yellow"
      stroke-width="4"
      fill="none"
-     id="path2"
-     sodipodi:nodetypes="cc" />
+     id="path2" />
+  <rect
+     style="fill:#008000;stroke:#0b0000;stroke-width:0.447"
+     id="rect3"
+     width="48.091602"
+     height="33.333336"
+     x="13.740458"
+     y="68.702286"
+     ry="10.293848" />
   <path
-     style="fill:#008000;stroke:#0b0000;stroke-width:3;stroke-dasharray:none"
-     d="M 11.195929,110.17812 C -9.6639266,71.516939 34.210094,68.854588 32.596835,92.530798 31.378966,110.40425 58.888802,76.672205 58.269719,114.50382"
-     id="path3"
-     sodipodi:nodetypes="csc" />
+     style="fill:#008000;stroke:#0b0000;stroke-width:0.447"
+     d="m 33.842239,100 39.694653,12.72264 3.30789,36.13232 -35.114502,-3.81679 z"
+     id="path3" />
 </svg>
